@@ -14,11 +14,3 @@ Here is a list of helpful links:
 - Join the discussion [on Discord](https://discord.gg/pax4mA)
 
 - Like the page [on Facebook](https://www.facebook.com/Topeka-Ks-Mutual-Aid-110396077428530)
-
-
-
-
-
-
-
-This website: If you would like to contribute to the project, please join [the github repository](https://github.com/karlfun/topekamutualaid).
