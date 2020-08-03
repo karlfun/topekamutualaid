@@ -256,16 +256,15 @@ form {
 
 
 
-#nav ul{
-  display:inline-block !important;
-}
 
 #nav ul li{
   list-style-type:none;
+  display:inline;
 }
 
 
 #nav ul li a{
+  display:block;
   padding:1em;
   background:#0000FF;
   color:#FFFFFF;
@@ -274,6 +273,10 @@ form {
 #nav ul li a:hover{
   background:#000080;
   text-decoration:none;
+}
+
+#nav ul li a .active{
+  background:#000080;
 }
 
 
