@@ -4,9 +4,11 @@ Here is a list of helpful links:
 
 
 - **Request Aid**
+
 Request aid using [this Google form](https://forms.gle/GY2tqejU6AgBmgwt6).
 
 - **Offer Aid**
+
 Offer aid using [this Google form](https://forms.gle/JuMo1a781u21LE7BA).
 
 - Contact the group via email or send a Paypal donation: topeka.mutualaid@gmail.com
