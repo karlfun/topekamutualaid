@@ -255,18 +255,18 @@ form {
 
 
 
-
-
-#nav ul li{
+#nav ul{
   list-style-type:none;
-  display:inline;
 }
 
+#nav ul li{
+  display:inline;
+}
 
 #nav ul li a{
   display:block;
   padding:1em;
-  background:#0000FF;
+  background:#0090FF;
   color:#FFFFFF;
 }
 
