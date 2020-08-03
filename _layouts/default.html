@@ -22,6 +22,16 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
+          
+          <section id="nav">
+            <ul>
+              <li><a href="/">Home</a></li>
+              <li><a href="/request/">Request Aid</a></li>
+              <li><a href="/offer/">Offer Aid</a></li>
+            </ul>
+          </section>
+          
+          
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
